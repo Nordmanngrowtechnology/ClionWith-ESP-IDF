@@ -1,6 +1,9 @@
 # Clion with the ESP-IDF
 
 ## 1. Install ESP-IDF Installation Manager
+
+Required to install more information about [EIM](https://docs.espressif.com/projects/idf-im-ui/en/latest/)
+
 `winget install Espressif.EIM`
 
 ##### Upgrade to new version
